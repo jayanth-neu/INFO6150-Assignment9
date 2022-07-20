@@ -1,11 +1,11 @@
-Requirements
+# Requirements
 -> Created 4 pages(Home, About-us, Jobs, Contact) using react components and react-router
 -> Added a card in each page to describe the page details
 -> Dynamic components have been used in Jobs page
 -> Added CSS to make the pages prettier
 -> Uploaded the assignmet git and also added readme and gitignore files
 
-Website details
+# Website details
 -> This is a pet store website - Paw Express Boston
 -> Home page has store name and their tagline
 -> About page has description about the company
