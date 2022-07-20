@@ -1,3 +1,20 @@
+Requirements
+-> Created 4 pages(Home, About-us, Jobs, Contact) using react components and react-router
+-> Added a card in each page to describe the page details
+-> Dynamic components have been used in Jobs page
+-> Added CSS to make the pages prettier
+-> Uploaded the assignmet git and also added readme and gitignore files
+
+Website details
+-> This is a pet store website - Paw Express Boston
+-> Home page has store name and their tagline
+-> About page has description about the company
+-> Jobs page has job opening details and this page has the dynamic components - 1 dynamic component box for each posting
+-> Contact page has a form to contact the company
+
+All the pages have been built using HTML, CSS & React
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
